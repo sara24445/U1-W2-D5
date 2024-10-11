@@ -1,1 +1,36 @@
-/* Your styles here */
+.text-center {
+  text-align: center;
+  width: 100%;
+}
+.bg-dark {
+  color: white;
+  background-color: #364759;
+}
+.bg-dark2 {
+  color: white;
+  background-color: #222f3f;
+}
+.bg-im {
+  color: white;
+  background-image: url(../images/bg-image.png);
+}
+.bg-yellow {
+  color: white;
+  background-color: #f56600;
+}
+.py-1 {
+  padding: 1rem 0;
+}
+h1 {
+  font-size: 20px;
+}
+.riga3 {
+  display: inline-block= 30%;
+  margin: 0 20px;
+  border: 1px solid white;
+  padding: 10px;
+  width: 50px;
+}
+.f {
+  background-color: #222f3f;
+}
